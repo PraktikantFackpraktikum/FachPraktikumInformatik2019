@@ -1,0 +1,23 @@
+Beschreibung Bestand NMS Zirl
+
+Alles was in der Schule den Informatik Unterricht beinflusst: 
+HW, SW, Materialien soll hier gesammelt werden.
+
+Hardwarebestand – allgemein
+•	110x PCs (keines dieser Geräte wurde gekauft, alle sind von Firmen weggeworfen)
+•	110x Monitore (keines dieser Geräte wurde gekauft, alle sind von Firmen weggeworfen)
+•	110x Tastaturen (keines dieser Geräte wurde gekauft, alle sind von Firmen weggeworfen)
+•	110x Mäuse (keines dieser Geräte wurde gekauft, alle sind von Firmen weggeworfen)
+•	3x 3D-Brillen, die mit Smartphones verwendet werden können
+•	1x 3D-Drucker
+•	
+Hardwarebestand – genauer (fehlt noch)
+•	Server:
+•	Schülerarbeitsgeräte:
+•	LehrerInarbeitsgeräte:
+•	3 PC-Räume mit x Arbeitsplätzen
+
+Softwarebestand
+•	Office 365 Paket
+•	Robot Karol Software
+•	Einige sehr alte Lernsoftwares wie z.B. Scratch, … 
