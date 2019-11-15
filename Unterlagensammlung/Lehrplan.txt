@@ -1,0 +1,83 @@
+In diesem Dokument wird sich intensiv mit dem Lehrplan für Informatik auseinandergesetzt und vor allem die Verknüpfungspunkte zum Robotik-Unterricht herausgearbeitet. 
+Zudem werden die verschiedenen Lehrpläne (AHS, NMS (digitale Grundbildung)) miteinander verglichen, Gleichsamkeiten herausgearbeitet sowie Unterschiede beleuchtet.
+
+
+1) Lehrplan der AHS:
+
+Der Lehrplan der AHS ist abrufbar unter https://www.ahs-informatik.com/app/download/9604403985/informatiklehrplan-klasse5-ab-2018-19.pdf?t=1547216354 (abgerufen, am 15.11.2019).
+Dieser ist seit dem Schuljahr 2018/19 gültig und wird seitdem flächendeckend in Österreich angewandt. 
+
+Im Lehrplan der allgemeinbildenden höheren Schulen finden sich mehrere Verknüpfungspunkte zum Robotik-Unterricht. Diese seien nun hier aufgelistet.
+
+	Informatik, Mensch und Gesellschaft
+		Die Bedeutung von Informatik in der Gesellschaft beschreiben, die Auswirkungen auf die Einzelnen und die Gesellschaft einschätzen und Vor- und Nachteile an konkreten Beispielen abwägen können.
+		Die Entwicklung der Informatik beschreiben und bewerten können.
+		Informatikberufe und Einsatzmöglichkeiten der Informatik in verschiedenen Berufsfeldern benennen und einschätzen können.
+
+	Informatiksysteme
+		Den Aufbau von digitalen Endgeräten beschreiben und erklären können.
+		Die Funktionsweise von Informatiksystemen erklären können.
+
+	Praktische Informatik
+		Begriffe und Konzepte der Informatik verstehen und Methoden und Arbeitsweisen anwenden können.
+		Algorithmen erklären, entwerfen, darstellen und in einer Programmiersprache implementieren können.
+		Grundprinzipien von Automaten, Algorithmen, Datenstrukturen und Programmen erklären können.
+
+Nun folgt noch eine kurze Erklärung, wie und warum die oben genannten Punkte in den Robotik-Unterricht einfließen.
+
+Die Bedeutung von Informatik in der Gesellschaft kann natürlich sehr gut mit der Robotik beschrieben werden. Beispiele dafür sind große Fabriken von Volkswagen, in denen sehr viele Roboter verwendet werden und viele Arbeitsschritte automatisiert werden.
+Die Entwicklung der Informatik wird selbverständlich ebenfalls sehr stark von der Robotik geprägt werden. Die Automatisierung steckt immer noch in einem Anfangsstadium und in bereits wenigen Jahren werden sehr viele Berufe verschwinden, die heute noch ganz selbverständlich sind. Allerdings werden ebenso auch zusätzliche Berufe und Berufsfelder entstehen. Grund dafür ist, wie bereits zuvor genannt, die zunehmenden Automatisierung und damit ebenso die Robotik.
+Die Einsatzmöglichkeiten sind in der Robotik unbegrenzt.
+
+Zum Punkt Aufbau von digitalen Endgeräten ist selbstverständlich der Arduino, wie er in dem akademischen Gymnasium Innsbruck vorhanden ist, sehr lehrreich. Man kann am Arduino den Aufbau sehr gut verstehen (beispielsweise wie ein Motor angesteuert wird und das man dem Computer sagen muss, ob nun der linke oder rechte Motor angeschlossen wurde).
+Die Funktionsweise natürlich ebenfalls.
+
+Der Teil der praktischen Informatik ist selbsterklärend, da die Schülerinnen und Schüler (auch wenn vielleicht nicht direkt so sichtbar) natürlich beim Arbeiten mit Robotern programmieren müssen.
+
+
+2) Lehrplan der NMS (digitale Grundbildung):
+
+Der Lehrplan der NMS (digitale Grundbildung) ist abrufbar unter https://www.ris.bka.gv.at/Dokumente/Begut/BEGUT_COO_2026_100_2_1425918/BEGUT_COO_2026_100_2_1425918.pdf (abgerufen, am 15.11.2019).
+Dieser wird seit dem Schuljahr 2018/19 flächendeckend für alle Schulen der Sekundarstufe 1 (D.h. auch in der gymnasialen Unterstufe) umgesetzt.
+
+Der Bereich der Robotik ist in folgenden Bereichen abgedeckt.
+
+	Digitalisierung im Alltag - Schülerinnen und Schüler
+		kennen  Geräte  und  Prozesse des  täglichen  Lebens,  die  durchdigitale  Technologien  gesteuert werden.
+
+	Chancen und Grenzen der Digitalisierung - Schülerinnen und Schüler
+		kennen wichtige Anwendungsgebiete der Informationstechnologie und informationstechnologische Berufe,
+		sind   sich   gesellschaftlicher   und   ethischer   Fragen im   Zusammenhang   mittechnischen Innovationen bewusst, 
+		erkennen   Entwicklungen,   die   eine   Gefahr   für   Chancengleichheit   bei   der   Nutzung   von Informationstechnologien darstellen,und nennen Handlungsoptionen.
+
+	Technische Bedürfnisse und entsprechende Möglichkeiten identifizieren - Schülerinnen und Schüler
+		kennen die Bestandteile und Funktionsweise eines Computers und eines Netzwerks,
+		formulieren Bedürfnisse für den Einsatz digitaler Geräte.
+
+	Digitale Geräte nutzen - Schülerinnen und Schüler
+		schließen  die  wichtigsten  Komponenten  eines  Computers  richtig  zusammen  und  identifizieren Verbindungsfehler.
+
+	Mit Algorithmen arbeiten - Schülerinnen und Schüler
+		vollziehen eindeutige Handlungsanleitungen (Algorithmen) nach und führen diese aus,
+		entdecken Gemeinsamkeiten und Regeln (Muster) in Handlungsanleitungen,
+		formulieren eindeutige Handlungsanleitungen (Algorithmen) verbal und schriftlich.
+
+	Einfache Programme erstellen - Schülerinnen und Schüler
+		kennen unterschiedliche Programmiersprachen und Produktionsabläufe,
+		erstellen  einfache  Programme  in  geeigneten  Entwicklungsumgebungen,  um  ein bestimmtes Problem zu lösen oder eine bestimmte Aufgabe zu erfüllen,
+		beherrschen grundlegende Programmierstrukturen (Verzweigung, Schleifen, Prozeduren).
+
+Man sieht also, dass der Einsatz von Robotik auch in der Sekundarstufe 1 gerechtfertigt wäre. Besonders im Bereich des Computational Thinkings ist die Robotik durchaus denkbar und aufgrund der Anschaulichkeit gut geeignet.
+
+
+3) Gleichsamkeiten und Unterschiede
+
+Es ist ersichtlich, dass sowohl in der AHS-Oberstufe, als auch in der Sekundarstufe 1 (AHS-Unterstufe, Neue Mittelschule), Robotik-Unterricht geeignet wäre.
+Unterschiede gibt es für mich jedoch ganz klar in der Tiefe. Während in der Sekundarstufe 2 (AHS - Oberstufe) etwas mehr mit den Robotern gearbeitet werden kann, ist dies in der Sekundarstufe 1 nicht der Fall. 
+In der Sekundarstufe 1 müssen nämlich neben dem Computational Thinking noch jede Menge anderer Grundlagen erlernt werden. (Office und tippen an der Tastatur seien dabei stellvertretend erwähnt).
+Zudem muss auch erlernt werden, wie das Betriebssystem bedient wird. All dies sollte meines Erachtens nach vor dem Robotik-Unterricht stattfinden, da diese erlernten Kompetenzen dann während des Robotik-Unterrichts weiter gefestigt und vertieft werden können.
+
+		
+
+		
+		
