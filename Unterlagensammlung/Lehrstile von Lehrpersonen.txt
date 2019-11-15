@@ -1,4 +1,4 @@
-Hier kann jeder Lehrstile/Unterrichtsstile von (Informatik) Lehrpersonen beschreiben, die einem im Praktikum begegnet sind. Dabei soll wenn möglich kein Personenbezug hergestellt werden können.
+﻿Hier kann jeder Lehrstile/Unterrichtsstile von (Informatik) Lehrpersonen beschreiben, die einem im Praktikum begegnet sind. Dabei soll wenn möglich kein Personenbezug hergestellt werden können.
 
 Lehrstile von Lehrpersonen
 
@@ -14,4 +14,5 @@ Quelle: Silver, Strong, Perini (2013) Strategisch unterrichten. So finden Sie f�
 *Eine Lehrperson legt in ihrem Unterricht weniger den Schwerpunkt darauf, dass ihre Schüler_innen etwas wissen, sondern vielmehr geht es darum, dass ihre Schüler_innen Fähigkeiten erlernen und etwas Können. Dabei müssen sich Schüler_innen den größten Teil in Aufgaben selbst erarbeiten. Die Lehperson gibt dabei nur zu Beginn einige Informationen. Die Aufgabenstellungen selber beinahlten aber häufig Beispiele oder Erklärungen. 
 Die Schüler_innen sind dabei sehr aktiv, während die Lehrperson eher im Hintergrund agiert. Die Schüler_innen können sich dabei selbst einen Schwerpunkt für sich  festlegen. Damit verfolgt die Lehrperson zu großem Teilen einen selbstverwirklichungsorientierten Unterricht. 
 
-
+*Die Lehrperson hat zusätzlich zu den Selbsterarbeitungsphasen der Schüler auch Frontalunterrichtssequenzen, in welchen den SchülerInnen am Computer gezeigt wird wie 
+bestimmte Aspekte funktionieren. In den Phasen, in denen die SchülerInnen selbst arbeiten gibt es selten Fragen und die Lehrperson verhält sich eher passiv.
