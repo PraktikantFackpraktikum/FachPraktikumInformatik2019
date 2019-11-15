@@ -1,0 +1,7 @@
+Wahl des Repositories:
+ 
+Nachdem wir heute Mittag den Arbeitsauftrag erhalten haben, begann die Diskussion über unsere Whatsapp-Gruppe. 
+Zu Beginn überlegten wir, ob wir das Repository von FloMarth verwenden sollten. Das schien uns eine praktische Lösung, 
+da wir uns damit gut auskannten. Nach einigen Überlegungen entschieden wir uns aber dagegen. Grund dafür ist, dass der 
+FachPraktikant-Account nicht personenabhängig ist und auch von zukünftigen Praktikanten weiterverwendet und gewartet werden kann. 
+
