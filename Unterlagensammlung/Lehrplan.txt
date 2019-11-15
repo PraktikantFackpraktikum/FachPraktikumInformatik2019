@@ -78,6 +78,19 @@ In der Sekundarstufe 1 müssen nämlich neben dem Computational Thinking noch je
 Zudem muss auch erlernt werden, wie das Betriebssystem bedient wird. All dies sollte meines Erachtens nach vor dem Robotik-Unterricht stattfinden, da diese erlernten Kompetenzen dann während des Robotik-Unterrichts weiter gefestigt und vertieft werden können.
 
 		
+4) Lehrplan Wahlpflichtfach Informatik 
+https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008568Lehrplan-WPF-Informatik-Oktober-2018.pdf
+Dies soll den Schüler_innen zu einer erweiterten und vertieften informatischen Bildung helfen. 
 
+Gliederung der Inhaltsdimension
+	Informatik, Mensch und Gesellschaft
+	Informatiksysteme
+	Angewandte Informatik
+	Praktische Informatik
+
+Gliederung der Handlungsdimension
+	Wissen und Verstehen
+	Anwenden und Gestalten
+	Reflektieren und Bewerten
 		
 		
