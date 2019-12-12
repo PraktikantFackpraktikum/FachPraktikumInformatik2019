@@ -11,10 +11,10 @@ Dieses Programm bietet die klassische Funktionen als Videoschnittprogramm an. Hi
 --Tipp--
 Die technisches Hintergründe sollten aucha ufgezegit werden. Man kann sich die Verzeichnisstruktur von Open-Shoot einmal gemeinsam mit den Schüler_innen anschauen. Was ist in den Ordnern Thumbnail, Asset, etc? Und dabei auch die Funktionsweise dieser Software aufzeigen. In der .osp-Datei wird nur Text gespeichert. Wann soll welcher Clip wie lange, Effekte ja/nein, wo befinden sich clips,...
 
---Häufige Fehlvorstellungen von Schüler_innen--
+--Häufige Fehlvorstellungen der Schüler_innen--
 
 * Beim Hinzuüfgen der Videos werden diese in das Programm importiert und sind daraufhin im Videoprgramm selber gespeichert.
---> Das Hinzufügen der Videos stellt nur einen Verweis auf die Originaldateien dar. Werden die Originaldateien verschoben, gelöscht oder umbennant, können diese nicht mehr vom Programm gefunden werden. Deshalb sollten Schüler_innen zu Beginn eine ordentliche Dateienstruktur anlegen, die im Nachhinein nciht verändern werden sollte.
+--> Das Hinzufügen der Videos stellt nur einen Verweis auf die Originaldateien dar. Werden die Originaldateien verschoben, gelöscht oder umbennant, können diese nicht mehr vom Programm gefunden werden. Deshalb sollten Schüler_innen zu Beginn eine ordentliche Dateienstruktur anlegen, die im Nachhinein nicht verändern werden sollte.
 
 * Beim Schneiden der Clips wird der weggeschnittene Teil gelöscht.
 --> Nur der Anfangs- bzw Endpunkt des Videos wird verschoben. Der weggeschnittene Teil kann jederzeit durch einfaches Ziehen am Anfang bzw am Ende wieder ehrgestellt werden.
