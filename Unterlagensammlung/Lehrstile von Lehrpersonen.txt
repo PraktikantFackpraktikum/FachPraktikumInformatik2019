@@ -2,7 +2,7 @@
 
 Lehrstile von Lehrpersonen
 
-Dabei orientiere ich mich an die vier Lernstile von Silver, Strong und Perini. Diese unterscheiden  zwischen: 	          	- Ziele
+Dabei orientiere ich mich an die vier Lernstile von Silver, Strong und Perini. Diese unterscheiden  zwischen: 
 - Wissensorientierter Stil - Aubau von Wissen
 - Verstehensorientierter Stil - verbesserte Fähigkeiten logisches Denken, Ursachenforschung
 - Beziehungsorientierter Stil - Gemeinsame Lernen, Aufbau von Beziehungen, Umgang mit der Gruppe
@@ -11,8 +11,11 @@ Dabei orientiere ich mich an die vier Lernstile von Silver, Strong und Perini. D
 Diese Unterrichtsstile kommen nur selten abgeschlossen für sich alleine vor, sondern werden im Unterricht immer wieder durchmischt. Trotzdem kann man häufig einen Trend ableiten. 
 Quelle: Silver, Strong, Perini (2013) Strategisch unterrichten. So finden Sie für jedes Unterrichtsziel die richtige Methode. Beltz.
 
-*Eine Lehrperson legt in ihrem Unterricht weniger den Schwerpunkt darauf, dass ihre Schüler_innen etwas wissen, sondern vielmehr geht es darum, dass ihre Schüler_innen Fähigkeiten erlernen und etwas Können. Dabei müssen sich Schüler_innen den größten Teil in Aufgaben selbst erarbeiten. Die Lehperson gibt dabei nur zu Beginn einige Informationen. Die Aufgabenstellungen selber beinahlten aber häufig Beispiele oder Erklärungen. 
+*Eine Lehrperson legt in ihrem Unterricht weniger den Schwerpunkt darauf, dass ihre Schüler_innen etwas wissen, sondern vielmehr geht es darum, dass ihre Schüler_innen Fähigkeiten erlernen und etwas Können. Dabei müssen sich Schüler_innen den größten Teil in Aufgaben selbst erarbeiten. Die Lehrperson gibt dabei nur zu Beginn einige Informationen. Die Aufgabenstellungen selber beinhalten aber häufig Beispiele oder Erklärungen. 
 Die Schüler_innen sind dabei sehr aktiv, während die Lehrperson eher im Hintergrund agiert. Die Schüler_innen können sich dabei selbst einen Schwerpunkt für sich  festlegen. Damit verfolgt die Lehrperson zu großem Teilen einen selbstverwirklichungsorientierten Unterricht. 
 
-*Die Lehrperson hat zusätzlich zu den Selbsterarbeitungsphasen der Schüler auch Frontalunterrichtssequenzen, in welchen den SchülerInnen am Computer gezeigt wird wie 
-bestimmte Aspekte funktionieren. In den Phasen, in denen die SchülerInnen selbst arbeiten gibt es selten Fragen und die Lehrperson verhält sich eher passiv.
+*Die Lehrperson hat zusätzlich zu den Selbsterarbeitungsphasen der Schüler auch Frontalunterrichtssequenzen, in welchen den SchülerInnen am Computer gezeigt wird wie bestimmte Aspekte funktionieren. In den Phasen, in denen die SchülerInnen selbst arbeiten gibt es selten Fragen und die Lehrperson verhält sich eher passiv.
+
+*Eine Lehrperson erklärte sie fände es wichtiger, dass Schüler_innen in der Schule (Unterstufe) Freude und Spaß hätten, als wenn sie das Unterrichtsfach Informatik langweilig oder anders negativ in Erinnerung behalten würden. DIese Lehrkraft verfolgte eine sehr beziehunngsorientierten Stil. 
+Der Lehrstoff musste sich größtenteils hintenanordnen. Ich sehe die Gefahr, dass das Ziel des Unterrichtes zu stark vernachlässigt wird. EIne gute Lehrperson sollte es schaffen, die eigenen Schüler_innen immer wieder zu motivieren, sodass sie gar nei von dem Ultimatum "Unterricht - Langeweile oder Kein Unterricht - Spaß" stehen sollte.
+
