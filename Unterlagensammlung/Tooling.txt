@@ -9,7 +9,7 @@ Open-Shot ist ein freies (open source) kostenloses Videobearbeitungsprogramm. De
 Dieses Programm bietet die klassische Funktionen als Videoschnittprogramm an. Hinzufügen von Text, Bildern, Schneiden, Übergänge, kleine Auswahl an Effekten, mehrere Spuren,...
 
 --Tipp--
-Die technisches Hintergründe sollten aucha ufgezegit werden. Man kann sich die Verzeichnisstruktur von Open-Shoot einmal gemeinsam mit den Schüler_innen anschauen. Was ist in den Ordnern Thumbnail, Asset, etc? Und dabei auch die Funktionsweise dieser Software aufzeigen. In der .osp-Datei wird nur Text gespeichert. Wann soll welcher Clip wie lange, Effekte ja/nein, wo befinden sich clips,...
+Die technisches Hintergründe sollten auch aufgezeigt werden. Man kann sich die Verzeichnisstruktur von Open-Shoot einmal gemeinsam mit den Schüler_innen anschauen. Was ist in den Ordnern Thumbnail, Asset, etc? Und dabei auch die Funktionsweise dieser Software aufzeigen. In der .osp-Datei wird nur Text gespeichert. Wann soll welcher Clip wie lange, Effekte ja/nein, wo befinden sich clips,...
 
 --Häufige Fehlvorstellungen der Schüler_innen--
 
@@ -40,6 +40,10 @@ Das Programm Geany selber ist nur auf Linux-Systemen verfügbar.
 Herausforderung:
 Phyton selber erfordert eine tiefere Auseinandersetzung mit dem Thema Programmieren. 
 Geany gibt Funktionen zum Kompilierten und Ausführen vor, sodass keine Auseinandersetzung mit der Console nötig ist. 
+
+*Arduino* 
+DIe Arduino IDE gibt es als Download für Windows, MAC OS und auch für die Linux Systeme. Weiters gibt es auch einen Online Editor (https://www.arduino.cc/). 
+Auf dem Arduino  selber programmiert man in einer C (C++) ähnlichen Programmiersprache. FÜr die Unterstufe ist sie damit schwieriger als eine visuelle Programmiersrpache und eher ungeeignet.
 
 _____________________________________________________________________________________________
 
