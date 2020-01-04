@@ -1,5 +1,6 @@
 ______Dieses File ist für all jene Inhalte gedacht, die uns in unserem Fachpraktikum begegnen und wir mit anderen teilen möchten._________
 
+-------------------------------------------------------------------------------------------------------------------
 
 Feedback
 Da wir im Kurs so viel über Feedback gesprochen haben, hier noch einmal eine gute Zusammenfassung aus dem Kurs Professionsspezifisches Wissen und Handeln Schulpraktikum 3a und 3b,. 
@@ -24,6 +25,7 @@ Quellen:
 https://www.berlinerteam.de/magazin/konstruktiv-feedback-geben-10-regeln/ [15.11.19]
 Bachmann, Christine. (2019) Feedback. Professionsspezifisches Wissen und Handeln Schulpraktikum 3a und 3b
 
+-------------------------------------------------------------------------------------------------------------------
 
 Effizienz und Effektivität:
 
@@ -51,7 +53,12 @@ Genau darum geht es bei mangelnder Effizienz.
 Diese Erklärungen von Effektivität und Effizienz wurden aus der Seite https://projekte-leicht-gemacht.de/blog/definitionen/effizienz-effektivitaet/ (abgerufen, am 15.11.19) übernommen.
 Eine vertiefte Auseinandersetzungen zu diesen Begriffen wird zu einem späteren Zeitpunkt fortgesetzt.
 
+-------------------------------------------------------------------------------------------------------------------
 
+Informatikunterricht - mehr als nur Umgang mit Computern
+
+Auch wenn Lernplatformen einem selbst als Lehrperson viele Möglichkeiten für selbständige Arbeitsaufträge geben und die Organisation von Lehrinhalten erleichtern kann, sollte man diese nicht zu exzessiv im Unterricht einsetzen. Unterrichtsstunden, in denen Schüler_innen nur noch selbst von den Computern sitzen und die ganze Doppelstunde sich mit Anwendungen am Computer beschäftigen, stehe ich kritisch gegenüber. Informatik hat nicht per se nur mit Computern zu tun: Informatik ist die Wissenschaft von der systematischen Darstellung, Speicherung, Verarbeitung und Übertragung von Informationen" und dreht sich damit um viel mehr als nur um den Personal Computer. 
+Schüler_innen sollten gerade im Informatik Unterricht viel in Partner- oder Gruppenarbeiten zusammenarbeiten. Im Lehrplan findet man dazu " Gemeinschaftliches Problemlösen in einem projektorientierten Unterricht soll gefördert werden."  Ihnen muss auch vermittelt werden, dass Inforamtik sich nicht auf ihre Endgeräte (Smartphone, Laptop, Router) beschränkt. Informationstechik prägt in  allen Bereichen unser Leben und lässt sich deshalb auch so leicht wiederfinden. Das Kapitel Mensch und Gesellschaft spielt hierbei eine große Rolle. Denn hier ist auch das Abwägen von Vor- und Nachteilen von neuer Technologie ein Thema.
 
 
 
