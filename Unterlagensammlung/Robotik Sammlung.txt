@@ -1,0 +1,15 @@
+In diesem Dokument sollen Unterrichtsmaterialien zum Themengebiet Robotik gesammelt werden.
+_____________________________________________________________
+Arbeiten mit dem Arduino UNO
+
+Energieversorgung:
+Je nach verwendeten Sensoren/Motoren/Lautsprechrechern ist darauf zu achten, dass der Roboter mit genügend Energie versorgt wird, um diese auch vollends nutzen zu können. Mit nur 4*1,5 V Batterien kann man schon an die Grenzen des Roboters stoßen, wenn diese zwei Motoren auf maximal in Betrieb nehmen will. Das Herunterregeln der Effektoren kann hier Abhilfe verschaffen. Ansonsten muss man särkere Batterien oder mehrere Akku-Packs verweden. 
+Das Verwenden von wiederaufladbaren Batterien (Akkus) sehe ich dabei als zwecksmäßiger, billiger und aus umweltechnischer Sicht auch besser vertretbarer an.
+
+Verkabelung: 
+Bei der Verkabelung der Roboter sollte darauf geachtet werden, dass die Pins fest sitzen, damit es nicht ständig zu Wackelkontakten führt. Es sollte darauf verzichtet werden, mit Klebestreifen oder ähnlichen Materialien die Pins zu befestigen. Dies führt dazu, dass Kontakte verstopft werden und bringt nur eine sehr kurzfristige Abhilfe. Sollten regulärer Kabel ohne Aufsätze verwendet werden, kann man sich mit Hilfe eines passenden Drahtstückes und einer Buchse eigene Stecker basteln, indem man die Hülse über das von Kabel befreite Ende zieht, das Drahtstück dazwischen einführt und alles mit einer Zange (Presszange) zusammendrückt. 
+
+Um die Funktionalität eines Roboters zu überprüfen, hilft es ein Testprogramm im Vorhinein zu schreiben, welches die Funktioanlität aller angeschlossenen Teile überprüft.
+
+_____________________________________________________________
+
