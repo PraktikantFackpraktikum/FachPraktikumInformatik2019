@@ -42,8 +42,8 @@ Phyton selber erfordert eine tiefere Auseinandersetzung mit dem Thema Programmie
 Geany gibt Funktionen zum Kompilierten und Ausführen vor, sodass keine Auseinandersetzung mit der Console nötig ist. 
 
 *Arduino* 
-DIe Arduino IDE gibt es als Download für Windows, MAC OS und auch für die Linux Systeme. Weiters gibt es auch einen Online Editor (https://www.arduino.cc/). 
-Auf dem Arduino  selber programmiert man in einer C (C++) ähnlichen Programmiersprache. FÜr die Unterstufe ist sie damit schwieriger als eine visuelle Programmiersrpache und eher ungeeignet.
+DIe Arduino IDE gibt es als Download für Windows, MAC OS und auch für die Linux Systeme. Weiters gibt es auch einen Online Editor (https://www.arduino.cc/). Um den Web-Editor verwenden zu können, wird ein lokales Plugin am PC selbst benötigt. 
+Auf dem Arduino  selber programmiert man in einer C (C++) ähnlichen Programmiersprache. Für die Unterstufe ist sie damit schwieriger als eine visuelle Programmiersrpache und eher ungeeignet.
 
 _____________________________________________________________________________________________
 
