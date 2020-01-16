@@ -54,7 +54,12 @@ Auf dem Arduino  selber programmiert man in einer C (C++) ähnlichen Programmier
 
 Herausforderung:
 Bei der Arduino IDE muss man jedes Mall, wenn man den Roboter mit dem Computer verbindet den Port im Programm neu einstellen.
+__________________________________________________________________________________________________________
+*SQL Island*
 
+Zum spielerischen Lernen von SQL
+
+Link: https://sql-island.informatik.uni-kl.de/#
 ____________________________________________________________________________________________________________
 ############################################################################################################
 
@@ -111,4 +116,4 @@ ________________________________________________________________________________
 
 Robotik
 
-siehe Dokument "RobotikSammlung.txt"
+siehe Dokument "Sammlung Robotik.txt"
