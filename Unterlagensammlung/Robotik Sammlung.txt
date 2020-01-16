@@ -1,6 +1,6 @@
 In diesem Dokument sollen Unterrichtsmaterialien zum Themengebiet Robotik gesammelt werden.
 _____________________________________________________________
-Arbeiten mit dem Arduino UNO
+Arbeiten mit dem *Arduino UNO*
 
 Energieversorgung:
 Je nach verwendeten Sensoren/Motoren/Lautsprechrechern ist darauf zu achten, dass der Roboter mit genügend Energie versorgt wird, um diese auch vollends nutzen zu können. Mit nur 4*1,5 V Batterien kann man schon an die Grenzen des Roboters stoßen, wenn diese zwei Motoren auf maximal in Betrieb nehmen will. Das Herunterregeln der Effektoren kann hier Abhilfe verschaffen. Ansonsten muss man särkere Batterien oder mehrere Akku-Packs verweden. 
@@ -11,5 +11,18 @@ Bei der Verkabelung der Roboter sollte darauf geachtet werden, dass die Pins fes
 
 Um die Funktionalität eines Roboters zu überprüfen, hilft es ein Testprogramm im Vorhinein zu schreiben, welches die Funktioanlität aller angeschlossenen Teile überprüft.
 
+Anwendung:
+Tolle Website für Inspiration http://starthardware.org/
 _____________________________________________________________
+Micro:bit - https://microbit.org/
+
+Programmieren:
+Das programmieren des Micro:bit ist sehr einfach und intuitiv. Wie in vielen anderen visuellen Programmiersprachen arbeitet man mit verschiedenen Blöcken, die man miteinander verbindet. 
+Es gibt die Möglichkeit eine Online Entwickler-Umgebung zu verwenden oder lokal auf seinem Computer unabhängig vom Betriebssystem seinen Roboter zu programmieren.
+
+Anwendung:
+Durch seine zwei Knöpfe und den 5x5 LEDs lassen sich auch ohne weiteres Equipment  schnell und einfach einfache Programme konzipieren, die in der physischen Welt Anwenung finden.
+Online finden sich viele Vorschläge und Ideen für den schnellen Einsatz von Micro:bits.
+
+__________________________________
 
