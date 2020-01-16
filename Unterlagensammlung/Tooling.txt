@@ -30,6 +30,7 @@ ________________________________________________________________________________
 Programmieren:
 
 *Scratch*
+Drag-And-Drop-Programmiersprache
 Scratch ist eine visuelle Programmiersprache mit einem spielerischen Zugang. Das Programm selber ist kostenlos und werbefrei. Es gibt eine Online sowie eine Offline Version. Durch seine geringe Größe und Verfügbarkeit auf Windows, Mac und Linux ist es gut für Schulen geeignet, an denen nicht immer eine schnelle und stabile Internetverbindung zur Verfügung steht. Gleichzeitig erlaubt die Online Version der Software den Schüler_innen auch einen einfachen Zugang von Zuhause aus. Aufgrund seiner bautsteinartigen Syntax mit einem einfachen Schlüssel-Schloss Prinzip werden Syntaxfehler von sich aus fast gänzlich ausgeschlossen. In der Bibliothek von Scratch finden sich auch eine große Anzahl an Audio Dateien, Figuren und Bilder.
 1. Bühne: Die Bühne befindet sich standardmäßig im linken oberen Bildschirmbereich und sie dient den Lernenden als Visualisierung ihres Programmes. In diesem Bereich können die in dem Programmierbereich erstellten Sequenzen und Animationen betrachten werden.
 2. Programmierbereich: Im fast gesamten rechten Bereich befindet sich das Herzstück von Scratch, in welchem die Programme erstellt werden.
