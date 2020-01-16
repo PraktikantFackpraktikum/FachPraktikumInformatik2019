@@ -84,3 +84,31 @@ Nachteil: nur unter Windows verfügbar
 
 *Gimp*
 Gimp ist ein Bildbearbeitungsprogramm, das im Vergleich zu Paint weitaus mehr Funktionen und Features hat.
+
+____________________________________________________________________________________________________________
+############################################################################################################
+
+Informatik Onlinewettbewerbe
+
+*Biber der Informatik*
+
+Der Informatik-Onlinewettbewerb findet immer im November statt. 
+Pro Schule muss sich eine Lehrperson als KoordiantorIn registrieren und kann dann die Gruppe intressierter SuS anmelden.
+Jeder Wettbewerb besteht aus ca. 15 Aufgaben, die durch Nachdenken aber ohne spezifische Informatik-Vorkenntnisse gelöst werden können. 
+Die Aufgaben müssen innerhalb von 40 Minuten gelöst werden. 
+
+ZIEL: Das Ziel ist es die SuS mit Konzepten der Informatik vertraut zu machen.
+
+ZIELGRUPPE: 
+- alle SuS zwischen 8 und 20 Jahren
+- Teilnahme ist online und nur für Schulen von der 3. bis zur 13. Schulstufe möglich
+- Aufgaben mit 5 verschiedenen Alterskategorien
+
+WEITERE INFORMATIONEN: https://www.ocg.at/de/biber-der
+
+____________________________________________________________________________________________________________
+############################################################################################################
+
+Robotik
+
+siehe Dokument "RobotikSammlung.txt"
