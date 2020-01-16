@@ -30,10 +30,14 @@ Alles was in der Schule den Informatik Unterricht beinflusst:
 HW, SW, Materialien soll hier gesammelt werden.
 
 Hardwarebestand – allgemein
-...
+•	Es gibt 2 Informatikräume mit jeweils 19PCs ( in einem 17 SuS PCs und 2 LP PCs und in einem anderen 18SuS PCs und 1 LP PC)
+•	Diese haben jeweils einen Beamer
 	
 Hardwarebestand – genauer (fehlt noch)
 ...
 
 Softwarebestand
-...
+•	Ubuntu installiert
+•	VirtualBox (WIndows)
+•	Arduino IDE
+•	
