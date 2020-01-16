@@ -11,18 +11,31 @@ Hardwarebestand – allgemein
 •	3x 3D-Brillen, die mit Smartphones verwendet werden können
 •	1x 3D-Drucker
 •	
-Hardwarebestand – genauer (fehlt noch)
-•	Server:
-•	Schülerarbeitsgeräte:
-•	LehrerInarbeitsgeräte:
-•	3 PC-Räume mit x Arbeitsplätzen
+Hardwarebestand – genauer 
+•	Server: 
+	- keine Serverräume
+	- Domainserver in der Gemeinde Zirl ausgelagert (Hardewareserver ist kaputt) 
+	- Router als Internetserver (10 GB auf Server, 300 MBit/s Download, 30 MBit/s Upload)
+
+•	Schülerarbeitsgeräte: in den drei Rechenräumen sowie im Raum für Textiles Werken (nur mit Lehrperson)
+
+•	LehrerInarbeitsgeräte: 
+	- Man rechnet je 5 Lehrpersonen einen Computer.
+	- im Arbeitszimmer 9 Computer (3 Notebooks und 6 Standpcs)
+	- 3 Rechenräume mit je 2 Lehrercomputer
+	- je 1 Computer pro Klasse (es gibt 11 Klassen)
+	- 1 Computer in der Küche
+	- 1 Computer im Physik/Chemie-Labor
+	- 1 Computer beim Textilen Werken
 
 Softwarebestand
 •	Office 365 Paket
 •	Robot Karol Software
-•	Einige sehr alte Lernsoftwares wie z.B. Scratch, … 
+•	Prezi-Zugang über Schule
+•	Online Zugang zu Scratch
+•	Einige sehr alte Lernsoftwareversionen wie z.B. Scratch, … 
 
-
+##########################################################################################################################################
 
 Beschreibung Bestand Akademisches Gymnasium Innsbruck (wird in den nächsten Wochen nachgereicht):
 
