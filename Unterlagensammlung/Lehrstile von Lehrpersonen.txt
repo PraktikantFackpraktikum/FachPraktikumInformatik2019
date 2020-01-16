@@ -1,4 +1,4 @@
-﻿Hier kann jeder Lehrstile/Unterrichtsstile von (Informatik) Lehrpersonen beschreiben, die einem im Praktikum begegnet sind. Dabei soll wenn möglich kein Personenbezug hergestellt werden können.
+Hier kann jeder Lehrstile/Unterrichtsstile von (Informatik) Lehrpersonen beschreiben, die einem im Praktikum begegnet sind. Dabei soll wenn möglich kein Personenbezug hergestellt werden können.
 
 Lehrstile von Lehrpersonen
 
@@ -16,6 +16,6 @@ Die Schüler_innen sind dabei sehr aktiv, während die Lehrperson eher im Hinter
 
 *Die Lehrperson hat zusätzlich zu den Selbsterarbeitungsphasen der Schüler auch Frontalunterrichtssequenzen, in welchen den SchülerInnen am Computer gezeigt wird wie bestimmte Aspekte funktionieren. In den Phasen, in denen die SchülerInnen selbst arbeiten gibt es selten Fragen und die Lehrperson verhält sich eher passiv.
 
-*Eine Lehrperson erklärte sie fände es wichtiger, dass Schüler_innen in der Schule (Unterstufe) Freude und Spaß hätten, als wenn sie das Unterrichtsfach Informatik langweilig oder anders negativ in Erinnerung behalten würden. DIese Lehrkraft verfolgte eine sehr beziehunngsorientierten Stil. 
-Der Lehrstoff musste sich größtenteils hintenanordnen. Ich sehe die Gefahr, dass das Ziel des Unterrichtes zu stark vernachlässigt wird. EIne gute Lehrperson sollte es schaffen, die eigenen Schüler_innen immer wieder zu motivieren, sodass sie gar nei von dem Ultimatum "Unterricht - Langeweile oder Kein Unterricht - Spaß" stehen sollte.
+*Eine Lehrperson erklärte sie findet es wichtiger, dass Schüler_innen in der Schule (Unterstufe) Freude und Spaß hätten, als wenn sie das Unterrichtsfach Informatik langweilig oder anders negativ in Erinnerung behalten würden. DIese Lehrkraft verfolgte eine sehr beziehunngsorientierten Stil. 
+Der Lehrstoff musste sich größtenteils hintenanordnen. Ich sehe die Gefahr, dass das Ziel des Unterrichtes zu stark vernachlässigt wird. EIne gute Lehrperson sollte es schaffen, die eigenen Schüler_innen immer wieder zu motivieren, sodass sie gar nie von dem Ultimatum "Unterricht - Langeweile oder Kein Unterricht - Spaß" stehen sollte.
 
