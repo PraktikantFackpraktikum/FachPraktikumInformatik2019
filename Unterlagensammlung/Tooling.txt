@@ -2,6 +2,8 @@ In dieser Datei soll es um verschiedene Anwendungestools für den Informatik Unt
 Mögliche Kategorien wären Textverarbeitung, Programmieren, Robotik, Videobearbeitung, Präsentationstools, Tabellenkalkulation, ...
 
 ____________________________________________________________________________________________________________
+############################################################################################################
+
 Videobearbeitung
 
 *OpenShot* https://www.openshot.org/de/
@@ -23,6 +25,8 @@ Die technisches Hintergründe sollten auch aufgezeigt werden. Man kann sich die 
 Das Bearbeiten von Videos im allgemeinen benötigt viel Prozessorleistung und Arbeitsspeicher, wodurch es zu Ladezeiten, Hänger und auch kompletten Absürzen von programmen kommen kann. Schüler_innen müssen (natürlich) ihre Arbeiten immer wieder zwischenspeichern. 
 Beim Erstellen von Texten in OpenShot erstellt das Programm eine autoamtische Bennenung der Titel. Bei jedem Neustart des Programmes startet die Bennenung von neuem bei 1. Deshalb müssen Schüler_innen unbedingt ihre Titel eigens benennen, da sie ansonten immer wieder den selben Titel neu bearbeiten --> Problem: ihre Texte werden immer wieder überspeichert. Das Programm selber informiert den Nutzer nicht über das Überschreiben der vorherigen Titel.
 ______________________________________________________________________________________________
+############################################################################################################
+
 Programmieren:
 
 *Scratch*
@@ -31,7 +35,7 @@ Scratch ist eine visuelle Programmiersprache mit einem spielerischen Zugang. Das
 2. Programmierbereich: Im fast gesamten rechten Bereich befindet sich das Herzstück von Scratch, in welchem die Programme erstellt werden.
 3. Figurenliste: Diese repräsentiert die einzelnen Objekte, mit welchen man in seinem Programm interagieren kann. Dabei kann eine Vielzahl an Objekten erstelltwe rden, wobei jede Figur seinen eigene Programmierbereich hat.
 4. Blockpalette: Bei dieser handelt es sich um die vorhin erwähnten Bausteinstücke, welche man zu Programmsequenzen zusammensetzen kann. Dabei gibt Scratch viele Bausteine vor, welche eine gute Bezeichnung haben, sodass Schüler_innen schnell ihre Funktionsweise verstehen.
-
+___________________________________________________________________________________________________________
 
 *Phyton* -Phyton-
 Phyton ist eine Programmiersprache, welche weniger Syntax als herkömmliche Programmiersprache (wie etwa C) aufweist. 
@@ -41,7 +45,7 @@ Online Entwicklerumgebung wie etwa https://www.programiz.com/python-programming/
 Herausforderung:
 Phyton selber erfordert eine tiefere Auseinandersetzung mit dem Thema Programmieren. 
 Geany und Online Umgebungen geben Funktionen zum Kompilieren und Ausführen vor, sodass keine Auseinandersetzung mit der Console nötig ist. 
-
+___________________________________________________________________________________________________________
 *Arduino* 
 DIe Arduino IDE gibt es als Download für Windows, MAC OS und auch für die Linux Systeme. Weiters gibt es auch einen Online Editor (https://www.arduino.cc/). Um den Web-Editor verwenden zu können, wird trotzdem ein lokales Plugin am PC selbst benötigt. *Bei der Aktualiserung des WebEditors ist ein Fehler aufgetreten, es funktioniert momentang 14.01 nicht*
 Es gibt auch eine Arduino IDE zum Downloaden. 
@@ -50,15 +54,16 @@ Auf dem Arduino  selber programmiert man in einer C (C++) ähnlichen Programmier
 Herausforderung:
 Bei der Arduino IDE muss man jedes Mall, wenn man den Roboter mit dem Computer verbindet den Port im Programm neu einstellen.
 
-_____________________________________________________________________________________________
-
+____________________________________________________________________________________________________________
+############################################################################################################
 
 Textbearbeitung
 
 *Microsoft Word*
 
 *Libre Office*
-____________________________________________________________________________________________
+____________________________________________________________________________________________________________
+############################################################################################################
 
 Präsentationstools
 
@@ -66,4 +71,15 @@ Präsentationstools
 
 *Microsoft Power Point*
 
-_________________________________________________________________________________________
+____________________________________________________________________________________________________________
+############################################################################################################
+
+Bilbearbeitung
+
+*Paint*
+Dabei handelt es sich um ein Bildbearbeitungstool, welches standardmäßig im Office Paket enthalten ist. 
+Vorteil: Es kann in verschiedenen Klassen angewandt werden und mann kann damit verschiedene Schwierigkeitsgrade umsetzen.
+Nachteil: nur unter Windows verfügbar
+
+*Gimp*
+Gimp ist ein Bildbearbeitungsprogramm, das im Vergleich zu Paint weitaus mehr Funktionen und Features hat.
