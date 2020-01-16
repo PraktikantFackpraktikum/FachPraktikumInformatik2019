@@ -33,17 +33,22 @@ Scratch ist eine visuelle Programmiersprache mit einem spielerischen Zugang. Das
 4. Blockpalette: Bei dieser handelt es sich um die vorhin erwähnten Bausteinstücke, welche man zu Programmsequenzen zusammensetzen kann. Dabei gibt Scratch viele Bausteine vor, welche eine gute Bezeichnung haben, sodass Schüler_innen schnell ihre Funktionsweise verstehen.
 
 
-*Geany* -Phyton-
+*Phyton* -Phyton-
 Phyton ist eine Programmiersprache, welche weniger Syntax als herkömmliche Programmiersprache (wie etwa C) aufweist. 
-Das Programm Geany selber ist nur auf Linux-Systemen verfügbar. 
+Das Programm Geany selber ist nur auf Linux-Systemen verfügbar und ermöglicht eine allumfassende Entwicklerumgebung, die wahrscheinlich ein überfordernd und für den Schulalltag übertrieben sein kann.
+Online Entwicklerumgebung wie etwa https://www.programiz.com/python-programming/online-compiler/ ermöglichen einen raschen Einstieg um Grundalgen, wie Schleifen, Zuweisungen, Bedinungen zu erklären.
 
 Herausforderung:
 Phyton selber erfordert eine tiefere Auseinandersetzung mit dem Thema Programmieren. 
-Geany gibt Funktionen zum Kompilierten und Ausführen vor, sodass keine Auseinandersetzung mit der Console nötig ist. 
+Geany und Online Umgebungen geben Funktionen zum Kompilieren und Ausführen vor, sodass keine Auseinandersetzung mit der Console nötig ist. 
 
 *Arduino* 
-DIe Arduino IDE gibt es als Download für Windows, MAC OS und auch für die Linux Systeme. Weiters gibt es auch einen Online Editor (https://www.arduino.cc/). Um den Web-Editor verwenden zu können, wird ein lokales Plugin am PC selbst benötigt. 
-Auf dem Arduino  selber programmiert man in einer C (C++) ähnlichen Programmiersprache. Für die Unterstufe ist sie damit schwieriger als eine visuelle Programmiersrpache und eher ungeeignet.
+DIe Arduino IDE gibt es als Download für Windows, MAC OS und auch für die Linux Systeme. Weiters gibt es auch einen Online Editor (https://www.arduino.cc/). Um den Web-Editor verwenden zu können, wird trotzdem ein lokales Plugin am PC selbst benötigt. *Bei der Aktualiserung des WebEditors ist ein Fehler aufgetreten, es funktioniert momentang 14.01 nicht*
+Es gibt auch eine Arduino IDE zum Downloaden. 
+Auf dem Arduino  selber programmiert man in einer C (C++) ähnlichen Programmiersprache. Für die Unterstufe ist sie damit schwieriger als eine visuelle Programmiersrpache. 
+
+Herausforderung:
+Bei der Arduino IDE muss man jedes Mall, wenn man den Roboter mit dem Computer verbindet den Port im Programm neu einstellen.
 
 _____________________________________________________________________________________________
 
