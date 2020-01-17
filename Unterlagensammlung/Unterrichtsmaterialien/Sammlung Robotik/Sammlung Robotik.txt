@@ -1,0 +1,66 @@
+In diesem Dokument sollen Unterrichtsmaterialien zum Themengebiet Robotik gesammelt werden.
+
+__________________________________________________________________________________
+##################################################################################
+
+Austro.Tec GmbH: http://austro-tec.at/
+
+__________________________________________________________________________________
+##################################################################################
+
+Arbeiten mit dem *Arduino UNO*
+
+Energieversorgung:
+Je nach verwendeten Sensoren/Motoren/Lautsprechrechern ist darauf zu achten, dass der Roboter mit genügend Energie versorgt wird, um diese auch vollends nutzen zu können. Mit nur 4*1,5 V Batterien kann man schon an die Grenzen des Roboters stoßen, wenn diese zwei Motoren auf maximal in Betrieb nehmen will. Das Herunterregeln der Effektoren kann hier Abhilfe verschaffen. Ansonsten muss man särkere Batterien oder mehrere Akku-Packs verweden. 
+Das Verwenden von wiederaufladbaren Batterien (Akkus) sehe ich dabei als zwecksmäßiger, billiger und aus umweltechnischer Sicht auch besser vertretbarer an.
+
+Verkabelung: 
+Bei der Verkabelung der Roboter sollte darauf geachtet werden, dass die Pins fest sitzen, damit es nicht ständig zu Wackelkontakten führt. Es sollte darauf verzichtet werden, mit Klebestreifen oder ähnlichen Materialien die Pins zu befestigen. Dies führt dazu, dass Kontakte verstopft werden und bringt nur eine sehr kurzfristige Abhilfe. Sollten regulärer Kabel ohne Aufsätze verwendet werden, kann man sich mit Hilfe eines passenden Drahtstückes und einer Buchse eigene Stecker basteln, indem man die Hülse über das von Kabel befreite Ende zieht, das Drahtstück dazwischen einführt und alles mit einer Zange (Presszange) zusammendrückt. 
+
+Um die Funktionalität eines Roboters zu überprüfen, hilft es ein Testprogramm im Vorhinein zu schreiben, welches die Funktioanlität aller angeschlossenen Teile überprüft.
+
+Anwendung:
+Tolle Website für Inspiration http://starthardware.org/
+__________________________________________________________________________________
+##################################################################################
+
+Micro:bit - https://microbit.org/
+
+Programmieren:
+Das programmieren des Micro:bit ist sehr einfach und intuitiv. Wie in vielen anderen visuellen Programmiersprachen arbeitet man mit verschiedenen Blöcken, die man miteinander verbindet. 
+Es gibt die Möglichkeit eine Online Entwickler-Umgebung zu verwenden oder lokal auf seinem Computer unabhängig vom Betriebssystem seinen Roboter zu programmieren.
+Entweder Drag-And-Drop-Programmierung oder MicroPython
+
+Auf Werkseinstellungen zurücksetzen: https://support.microbit.org/support/solutions/articles/19000021613-reset-the-micro-bit-to-factory-defaults
+
+Vorteil: Der Micro:bit ist ein Teil der österreichischen Schulbuchaktion.
+
+Anwendung:
+Durch seine zwei Knöpfe und den 5x5 LEDs lassen sich auch ohne weiteres Equipment  schnell und einfach einfache Programme konzipieren, die in der physischen Welt Anwenung finden.
+Online finden sich viele Vorschläge und Ideen für den schnellen Einsatz von Micro:bits.
+
+__________________________________________________________________________________
+##################################################################################
+
+ESP32
+
+Dabei handelt es sich um einen kostengünstigen und mit geringen Leistungsbedarf ausgeführten 32-Bit-Mikrocontroller, welcher im Jahre 2016 vorgestellt wurde.
+
+Beispiele, Tools und Unterlagen siehe: Bit.ly/2qnTLNV
+
+__________________________________________________________________________________
+##################################################################################
+
+Lego Education 
+
+Informationen unter https://education.lego.com/de-de
+
+Vorteil: viele verschiedene Anwendungsgebiete und Arbeiten mit vielen verschiedenen Softwares möglich
+Nachteil: teuer
+
+__________________________________________________________________________________
+##################################################################################
+
+ein|takt|reset
+
+Einfachstcomputer entwickelt vom Akademischen Gymnasium Innsbruck (AGI)
