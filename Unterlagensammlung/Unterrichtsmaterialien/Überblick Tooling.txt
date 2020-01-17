@@ -4,7 +4,7 @@ Mögliche Kategorien wären Textverarbeitung, Programmieren, Robotik, Videobearb
 ____________________________________________________________________________________________________________
 ############################################################################################################
 
-V*ideobearbeitung
+Videobearbeitung
 
 *OpenShot* https://www.openshot.org/de/
 Open-Shot ist ein freies (open source) kostenloses Videobearbeitungsprogramm. Der großer Vorteil gegenüber WindowsMovieMaker nd iMovie ist, dass er plattformübergreifend (Windows, Mac, Linux) funktioniert. So ist es kein Problem, wenn Schüler_innen zu Hause auf einem anderen Betreibssystem arbeiten. 
