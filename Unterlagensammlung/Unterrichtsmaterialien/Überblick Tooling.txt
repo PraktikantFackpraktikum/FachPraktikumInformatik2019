@@ -116,6 +116,13 @@ ZIELGRUPPE:
 - Aufgaben mit 5 verschiedenen Alterskategorien
 
 WEITERE INFORMATIONEN: https://www.ocg.at/de/biber-der
+____________________________________________________________________________________________________________
+
+*digi.check*
+
+- Online-Fragebogen zu den digitalen Kompetenzen
+- Eindruck in digitale und informatische Kompetenzen schaffen
+- Für Primarstufe, Sekundarstufe I, Sekundarstufe II, PädagogInnenbildung
 
 ____________________________________________________________________________________________________________
 ############################################################################################################
@@ -155,3 +162,17 @@ ________________________________________________________________________________
 
 - zum Erstellen von Kreuzworträtseln
 - Link: https://crosswordlabs.com/
+____________________________________________________________________________________________________________
+
+
+*Mentimeter* - oder andere Wordcloud-Programme
+
+- Umfrage- und Voting-Tool
+- für Microsoft PowerPoint (Office-365-Konto erforderlich) oder als Web-App
+- eingeschränkte Version kostenlos - gebührenpflichtige Tarife haben eine Laufzeit von mindestens einem Jahr
+- bietet gro0en Umfang an Grafiken und Interaktionsmöglichkeiten
+- z.B. Säulendiagramm bei Multiple-Choice-Fragen, Echtzeit-Reaktionen der Zuschauer durch Herz-Symbole, von Zuschauern eingegebene Strichwörter in Wortwolken
+- insgesammt 11 Darstellungsformen (Versprechen zur Erweiterung)
+
+
+
