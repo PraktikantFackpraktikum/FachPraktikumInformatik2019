@@ -14,7 +14,7 @@ Neue Mittelschule Zirl:
 
 - hospitieren, um Klassen und Lehrperson kennenzulernen
 
-- eingenes Unterrichten
+- eigenes Unterrichten
 	- 6 Tage je eine Stunde 
 	- 2 Wochenstunden: 1. Stunde unterrichten, 2. Stunde nachbesprechen
 	- Wahlpflichtfach Informatik 3ab oder Wahlpflichtfach Informatik 4abc
@@ -35,3 +35,20 @@ Neue Mittelschule Zirl:
 _____________________________________________________________________________________________________________________________________
 
 Akademisches Gymnasium Innsbruck:
+
+- hospitieren
+	- bei allen Lehrpersonen wurde immer wieder der Unterricht beobachtet. Dabei beschäftigten sich die Schüler-innen häufig mit den selben Fachinahlten (unabgänig von der Lehrperson).
+	- eine Lehrkraft fiel aus diesem Schema ein wenig heraus und schien einen anderen Unterrichtsplan zu verfolgen.
+
+- eigenes Unterrichten
+	- es wurden die Lehrpersonen befragt, ob sie Interesse daran hätten, dass Praktikanten zum Thema Robotik 3-4 Unterrichtseinheiten in ihren Klassen durchführen. 
+	- alle 3 befragten Lehrkräfte zeigten Interesse. Da jedoch eine LP einen eigenen Unterrichtspraktikanten hatte, wurde vereinbart, dass in dieser Klasse keine Unterrichtsstunden durchgeführt werden.
+	- die Planung der Termine gestaltete sich ein wenig schwierig, da die Lehrpersonen natürlich auch andere Fachinahlte für die Unterrichtszeit eingeplant hatten. Der anfängliche Plan im Dezember mit Robotikunterricht zu starten wurde auf den Jänner verlegt.
+	- In drei (Halb)Klassen (dIe Schüler_innen sind in Inforamtik in zwei Gruppen aufgeteilt) wurde der Unterricht abgehalten.
+
+- Unterrichtsthemen
+	- Robotik - Arbeiten mit Robotern
+	
+- Zugang
+	- Ein Zugang zu einem Moodlekurs wurde ermöglicht. DIe Schüler_innen wurden über das Portal Tirol hinzugefügt.
+	- An den Computern selber verwendete man einen Gastuser (User), welcher aber auch zu keinen Problemen führte.
