@@ -173,6 +173,8 @@ ________________________________________________________________________________
 - bietet gro0en Umfang an Grafiken und Interaktionsmöglichkeiten
 - z.B. Säulendiagramm bei Multiple-Choice-Fragen, Echtzeit-Reaktionen der Zuschauer durch Herz-Symbole, von Zuschauern eingegebene Strichwörter in Wortwolken
 - insgesammt 11 Darstellungsformen (Versprechen zur Erweiterung)
+- Link: https://www.mentimeter.com/ 
+- Anleitung - Arbeiten mit Mentimeter: https://www.kphvie.ac.at/fileadmin/Dateien_KPH/HelpDesk/Office365/Anleitung_Office365_Mentimeter.pdf
 
 
 
