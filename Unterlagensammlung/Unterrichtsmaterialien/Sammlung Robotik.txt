@@ -44,7 +44,7 @@ ________________________________________________________________________________
 
 ESP32
 
-Dabei handelt es sich um einen kostengüntigen und mit geringen Leistungsbedarf ausgeführten 32-Bit-Mikrocontroller, welcher im Jahre 2016 vorgestellt wurde.
+Dabei handelt es sich um einen kostengünstigen und mit geringen Leistungsbedarf ausgeführten 32-Bit-Mikrocontroller, welcher im Jahre 2016 vorgestellt wurde.
 
 Beispiele, Tools und Unterlagen siehe: Bit.ly/2qnTLNV
 
