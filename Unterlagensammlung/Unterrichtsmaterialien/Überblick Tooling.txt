@@ -41,7 +41,6 @@ Bestandteile des Editors:
 4. Blockpalette: Bei dieser handelt es sich um die vorhin erwähnten Bausteinstücke, welche man zu Programmsequenzen zusammensetzen kann. Dabei gibt Scratch viele Bausteine vor, welche eine gute Bezeichnung haben, sodass Schüler_innen schnell ihre Funktionsweise verstehen.
 
 Unterlagen siehe "Sammlung Scratch"
-
 ___________________________________________________________________________________________________________
 
 *Phyton* -Phyton-
@@ -127,9 +126,26 @@ Unterlagen siehe "Sammlung Robotik"
 
 ____________________________________________________________________________________________________________
 ############################################################################################################
+
 Bereitstellung von Unterrichtsmaterialen
 
 *Easy4Me*
 
 Arbeitsblätter, Übungsdateien und Onlineübungen
 Links: https://www.easy4me.info/
+
+____________________________________________________________________________________________________________
+############################################################################################################
+
+Onlineprogramme und Apps
+
+*Kahoot*
+- zum Erstellen von Quizz
+- Link: https://kahoot.com/
+
+____________________________________________________________________________________________________________
+
+*Actionbound*
+
+- Multimedia-Guid - Gestalte mobile Abenteuer und interaktive Guides für Smartphones und Tablets
+- Link: https://de.actionbound.com/
