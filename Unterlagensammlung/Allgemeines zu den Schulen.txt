@@ -28,9 +28,12 @@ Neue Mittelschule Zirl:
 	- Scratch: absolute Gestaltungsfreiheit, keine Einschränkungen
 	- Excel:
 
-- Sonstiges
+- Zugang
 	- Zugang für die Schulcomputer - jedoch kein Lehrerzugang (Probleme mit Abgaben und dem Bereitstellen von Aufgabenblätter für die SuS)
 	- Zugang zum Portal Tirol und zu Moodle (Achtung: SuS müssen von Betreuungslehrer noch für den Kurs freigeschalten werden)
+	
+- Betriebssystem
+	- Windows
 
 _____________________________________________________________________________________________________________________________________
 
@@ -52,3 +55,8 @@ Akademisches Gymnasium Innsbruck:
 - Zugang
 	- Ein Zugang zu einem Moodlekurs wurde ermöglicht. DIe Schüler_innen wurden über das Portal Tirol hinzugefügt.
 	- An den Computern selber verwendete man einen Gastuser (User), welcher aber auch zu keinen Problemen führte.
+	
+- Betriebssystem
+	- Linux	
+	
+
