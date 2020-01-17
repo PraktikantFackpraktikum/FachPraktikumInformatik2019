@@ -4,7 +4,7 @@ Mögliche Kategorien wären Textverarbeitung, Programmieren, Robotik, Videobearb
 ____________________________________________________________________________________________________________
 ############################################################################################################
 
-Videobearbeitung
+V*ideobearbeitung
 
 *OpenShot* https://www.openshot.org/de/
 Open-Shot ist ein freies (open source) kostenloses Videobearbeitungsprogramm. Der großer Vorteil gegenüber WindowsMovieMaker nd iMovie ist, dass er plattformübergreifend (Windows, Mac, Linux) funktioniert. So ist es kein Problem, wenn Schüler_innen zu Hause auf einem anderen Betreibssystem arbeiten. 
@@ -24,7 +24,7 @@ Die technisches Hintergründe sollten auch aufgezeigt werden. Man kann sich die 
 --Probleme mit dem Programm--
 Das Bearbeiten von Videos im allgemeinen benötigt viel Prozessorleistung und Arbeitsspeicher, wodurch es zu Ladezeiten, Hänger und auch kompletten Absürzen von programmen kommen kann. Schüler_innen müssen (natürlich) ihre Arbeiten immer wieder zwischenspeichern. 
 Beim Erstellen von Texten in OpenShot erstellt das Programm eine autoamtische Bennenung der Titel. Bei jedem Neustart des Programmes startet die Bennenung von neuem bei 1. Deshalb müssen Schüler_innen unbedingt ihre Titel eigens benennen, da sie ansonten immer wieder den selben Titel neu bearbeiten --> Problem: ihre Texte werden immer wieder überspeichert. Das Programm selber informiert den Nutzer nicht über das Überschreiben der vorherigen Titel.
-______________________________________________________________________________________________
+____________________________________________________________________________________________________________
 ############################################################################################################
 
 Programmieren:
@@ -124,3 +124,12 @@ ________________________________________________________________________________
 Robotik
 
 Unterlagen siehe "Sammlung Robotik"
+
+____________________________________________________________________________________________________________
+############################################################################################################
+Bereitstellung von Unterrichtsmaterialen
+
+*Easy4Me*
+
+Arbeitsblätter, Übungsdateien und Onlineübungen
+Links: https://www.easy4me.info/
