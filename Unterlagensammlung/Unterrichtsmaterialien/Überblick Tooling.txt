@@ -40,12 +40,8 @@ Bestandteile des Editors:
 3. Figurenliste: Diese repräsentiert die einzelnen Objekte, mit welchen man in seinem Programm interagieren kann. Dabei kann eine Vielzahl an Objekten erstelltwe rden, wobei jede Figur seinen eigene Programmierbereich hat.
 4. Blockpalette: Bei dieser handelt es sich um die vorhin erwähnten Bausteinstücke, welche man zu Programmsequenzen zusammensetzen kann. Dabei gibt Scratch viele Bausteine vor, welche eine gute Bezeichnung haben, sodass Schüler_innen schnell ihre Funktionsweise verstehen.
 
-<<<<<<< HEAD
 Unterlagen siehe "Sammlung Scratch"
 
-=======
-Unterlagen: siehe Sammlung Scratch
->>>>>>> b1894b6d0d56c826401828f4b8c5e0c9b729652c
 ___________________________________________________________________________________________________________
 
 *Phyton* -Phyton-
