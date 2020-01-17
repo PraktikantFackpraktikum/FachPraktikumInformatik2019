@@ -22,13 +22,13 @@ Neue Mittelschule Zirl:
 
 - sonstige Unterrichtstätigkeiten
 	- 2h Vorbereitung auf den Tag der offenen Tür (Wahlfach Informatik 4abc und Digitale Grundbildung 1c)
-	- 1h TAg der offenen Tür mit Volksschüler (2 Einheiten mit Hilfe von Beamer erklären und 2 Einheiten Kinder unterstützen)
+	- 1h Tag der offenen Tür mit Volksschüler (2 Einheiten mit Hilfe von Beamer erklären und 2 Einheiten Kinder unterstützen)
 
 - Unterrichtsthemen
 	- Scratch: absolute Gestaltungsfreiheit, keine Einschränkungen
 	- Excel:
 
-- sonstiges
+- Sonstiges
 	- Zugang für die Schulcomputer - jedoch kein Lehrerzugang (Probleme mit Abgaben und dem Bereitstellen von Aufgabenblätter für die SuS)
 	- Zugang zum Portal Tirol und zu Moodle (Achtung: SuS müssen von Betreuungslehrer noch für den Kurs freigeschalten werden)
 
