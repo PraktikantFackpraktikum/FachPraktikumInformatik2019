@@ -5,29 +5,36 @@ ________________________________________________________________________________
 
 Austro.Tec GmbH: http://austro-tec.at/
 
+Austro.Tec bietet eine große Auswahl an Produkten rund um die Robotik. 
 __________________________________________________________________________________
 ##################################################################################
 
 Arbeiten mit dem *Arduino UNO*
 
 Energieversorgung:
-Je nach verwendeten Sensoren/Motoren/Lautsprechrechern ist darauf zu achten, dass der Roboter mit genügend Energie versorgt wird, um diese auch vollends nutzen zu können. Mit nur 4*1,5 V Batterien kann man schon an die Grenzen des Roboters stoßen, wenn diese zwei Motoren auf maximal in Betrieb nehmen will. Das Herunterregeln der Effektoren kann hier Abhilfe verschaffen. Ansonsten muss man särkere Batterien oder mehrere Akku-Packs verweden. 
+Je nach verwendeten Sensoren/Motoren/Lautsprechrechern ist darauf zu achten, dass der Roboter mit genügend Energie versorgt wird, um diese auch vollends nutzen zu können. Mit nur 4*1,5 V Batterien kann man schon an die Grenzen des Roboters stoßen, wenn diese zwei Motoren auf maximal in Betrieb nehmen will. Das Herunterregeln der Effektoren kann hier Abhilfe verschaffen. Ansonsten muss man stärkere Batterien oder mehrere Akku-Packs verweden. 
 Das Verwenden von wiederaufladbaren Batterien (Akkus) sehe ich dabei als zwecksmäßiger, billiger und aus umweltechnischer Sicht auch besser vertretbarer an.
-
+Zu empfehlen wäre dabei beispielsweise die Ladestation 'Powerline 8' von Ansmann, mit Hilfe derer 8 Batterien (AA oder AAA) gleichzeitig geladen werden können. Der Preis (36,99€, stand 19.01.2020 Amazon) ist dabei ebenfalls mehr als in Ordnung.
+ 
 Verkabelung: 
 Bei der Verkabelung der Roboter sollte darauf geachtet werden, dass die Pins fest sitzen, damit es nicht ständig zu Wackelkontakten führt. Es sollte darauf verzichtet werden, mit Klebestreifen oder ähnlichen Materialien die Pins zu befestigen. Dies führt dazu, dass Kontakte verstopft werden und bringt nur eine sehr kurzfristige Abhilfe. Sollten regulärer Kabel ohne Aufsätze verwendet werden, kann man sich mit Hilfe eines passenden Drahtstückes und einer Buchse eigene Stecker basteln, indem man die Hülse über das von Kabel befreite Ende zieht, das Drahtstück dazwischen einführt und alles mit einer Zange (Presszange) zusammendrückt. 
 
-Um die Funktionalität eines Roboters zu überprüfen, hilft es ein Testprogramm im Vorhinein zu schreiben, welches die Funktioanlität aller angeschlossenen Teile überprüft.
+Um die Funktionalität eines Roboters zu überprüfen, hilft es ein Testprogramm im Vorhinein zu schreiben, welches die Funktionalität aller angeschlossenen Teile überprüft.
+
+Roboter-Gehäuse:
+
 
 Anwendung:
 Tolle Website für Inspiration http://starthardware.org/
+Möglichkeiten, den Einsatz eines Arduino mit einem 3D Drucker zu verbinden, gibt es beispielsweise auf dieser Website (https://all3dp.com/1/best-arduino-projects-3d-printer/).
+Auch wäre es erstrebenswert, mittels eines 3D-Drucks ein Fahrgestell für den Arduino zu entfernen, damit die Hardware fest verschraubt werden kann.
 __________________________________________________________________________________
 ##################################################################################
 
 Micro:bit - https://microbit.org/
 
 Programmieren:
-Das programmieren des Micro:bit ist sehr einfach und intuitiv. Wie in vielen anderen visuellen Programmiersprachen arbeitet man mit verschiedenen Blöcken, die man miteinander verbindet. 
+Das Programmieren des Micro:bit ist sehr einfach und intuitiv. Wie in vielen anderen visuellen Programmiersprachen arbeitet man mit verschiedenen Blöcken, die man miteinander verbindet. 
 Es gibt die Möglichkeit eine Online Entwickler-Umgebung zu verwenden oder lokal auf seinem Computer unabhängig vom Betriebssystem seinen Roboter zu programmieren.
 Entweder Drag-And-Drop-Programmierung oder MicroPython
 
@@ -47,6 +54,16 @@ ESP32
 Dabei handelt es sich um einen kostengünstigen und mit geringen Leistungsbedarf ausgeführten 32-Bit-Mikrocontroller, welcher im Jahre 2016 vorgestellt wurde.
 
 Beispiele, Tools und Unterlagen siehe: Bit.ly/2qnTLNV
+__________________________________________________________________________________
+##################################################################################
+
+Raspberry PI
+
+Im Bereich der Robotik darf natürlich der Raspberry PI nicht fehlen. 
+Auch hier ist positiv die sehr große Dokumentation zu erwähnen. So gibt es für Einsteiger jede Menge Tutorials (auch auf Deutsch).
+Ein großer Pluspunkt für den Raspberry PI ist auch, dass mit Python programmiert wird (anstelle von Java bzw. C beim Arduino).
+Ansonsten können alle Sensoren und Motoren, die beim Arduino eingesetzt werden, auch beim Raspberry PI eingesetzt werden.
+Projekte zum Einstieg finden sich unter https://tutorials-raspberrypi.de/raspberry-pi-projekte-fuer-anfaenger-zum-nachbauen/ wieder.
 
 __________________________________________________________________________________
 ##################################################################################
@@ -55,8 +72,12 @@ Lego Education
 
 Informationen unter https://education.lego.com/de-de
 
-Vorteil: viele verschiedene Anwendungsgebiete und Arbeiten mit vielen verschiedenen Softwares möglich
-Nachteil: teuer
+Der Lego Mindstorms EV3 ist ein Roboter, der speziell für die Schule konzipiert wurde. 
+Es gibt sehr viele verschiedene Anwendungsgebiete. Angenehm ist dabei, dass es für viele verschiedene Schwierigkeitsgrade geeignet ist. So kann einerseits mit Bausteinen programmiert werden, es ist aber auch möglich direkt mit Python zu programmieren.
+Des Weiteren findet jährlich der First Lego League Wettbewerb statt. Dieser ist motivierend für die Schülerinnen und Schüler und umfasst nicht nur das Programmieren eines Roboters sondern auch die Bereiche Teamwork und Forschung.
+Ein gewichtiges Gegenargument gegen den Lego Education Roboter ist jedoch der Preis. Um zehn Roboter für den Schulbereich zu kaufen ist bereits ein Betrag um 2500€ notwendig. Hinzu kommt noch der recht hohe Preis für Sensoren.
+Ein Pluspunkt ist jedoch, dass die Online-Dokumentation sehr ausführlich ist.
+
 
 __________________________________________________________________________________
 ##################################################################################
