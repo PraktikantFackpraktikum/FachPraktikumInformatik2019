@@ -1,4 +1,4 @@
-In dieser Datei soll es um verschiedene Anwendungestools für den Informatik Unterricht gehen.
+Diese Datei umfasst verschiedene Anwendungstools für den Informatikunterricht.
 Mögliche Kategorien wären Textverarbeitung, Programmieren, Robotik, Videobearbeitung, Präsentationstools, Tabellenkalkulation, ...
 
 ____________________________________________________________________________________________________________
@@ -7,22 +7,22 @@ ________________________________________________________________________________
 Videobearbeitung
 
 *OpenShot* https://www.openshot.org/de/
-Open-Shot ist ein freies (open source) kostenloses Videobearbeitungsprogramm. Der großer Vorteil gegenüber WindowsMovieMaker nd iMovie ist, dass er plattformübergreifend (Windows, Mac, Linux) funktioniert. So ist es kein Problem, wenn Schüler_innen zu Hause auf einem anderen Betreibssystem arbeiten. 
-Dieses Programm bietet die klassische Funktionen als Videoschnittprogramm an. Hinzufügen von Text, Bildern, Schneiden, Übergänge, kleine Auswahl an Effekten, mehrere Spuren,...
+OpenShot ist ein freies (open source) und kostenloses Videobearbeitungsprogramm. Der großer Vorteil gegenüber WindowsMovieMaker und iMovie ist, dass OpenShot plattformübergreifend (Windows, Mac, Linux) funktioniert. So ist es kein Problem, wenn Schüler_innen zu Hause auf einem anderen Betriebssystem arbeiten. 
+Dieses Programm bietet die klassische Funktionen eines Videoschnittprogramms. Hinzufügen von Text, Bildern, Schneiden, Übergänge, kleine Auswahl an Effekten, mehrere Spuren,...
 
 --Tipp--
-Die technisches Hintergründe sollten auch aufgezeigt werden. Man kann sich die Verzeichnisstruktur von Open-Shoot einmal gemeinsam mit den Schüler_innen anschauen. Was ist in den Ordnern Thumbnail, Asset, etc? Und dabei auch die Funktionsweise dieser Software aufzeigen. In der .osp-Datei wird nur Text gespeichert. Wann soll welcher Clip wie lange, Effekte ja/nein, wo befinden sich clips,...
+Die technisches Hintergründe sollten auch aufgezeigt werden. Man kann sich die Verzeichnisstruktur von OpenShot einmal gemeinsam mit den Schüler_innen anschauen. Was ist in den Ordnern Thumbnail, Asset, etc? Und dabei auch die Funktionsweise dieser Software aufzeigen. In der .osp-Datei wird nur Text gespeichert. Wann soll welcher Clip wie lange, Effekte ja/nein, wo befinden sich clips,...
 
 --Häufige Fehlvorstellungen der Schüler_innen--
 
-* Beim Hinzuüfgen der Videos werden diese in das Programm importiert und sind daraufhin im Videoprgramm selber gespeichert.
---> Das Hinzufügen der Videos stellt nur einen Verweis auf die Originaldateien dar. Werden die Originaldateien verschoben, gelöscht oder umbennant, können diese nicht mehr vom Programm gefunden werden. Deshalb sollten Schüler_innen zu Beginn eine ordentliche Dateienstruktur anlegen, die im Nachhinein nicht verändern werden sollte.
+* Beim Hinzufügen der Videos werden diese in das Programm importiert und sind daraufhin im Videoprogramm selber gespeichert.
+--> Das Hinzufügen der Videos stellt nur einen Verweis auf die Originaldateien dar. Werden die Originaldateien verschoben, gelöscht oder umbenannt, können diese nicht mehr vom Programm gefunden werden. Deshalb sollten Schüler_innen zu Beginn eine ordentliche Dateienstruktur anlegen, die im Nachhinein nicht verändern werden sollte.
 
 * Beim Schneiden der Clips wird der weggeschnittene Teil gelöscht.
---> Nur der Anfangs- bzw Endpunkt des Videos wird verschoben. Der weggeschnittene Teil kann jederzeit durch einfaches Ziehen am Anfang bzw am Ende wieder ehrgestellt werden.
+--> Nur der Anfangs- bzw Endpunkt des Videos wird verschoben. Der weggeschnittene Teil kann jederzeit durch einfaches Ziehen am Anfang bzw am Ende wieder hergestellt werden.
 
 --Probleme mit dem Programm--
-Das Bearbeiten von Videos im allgemeinen benötigt viel Prozessorleistung und Arbeitsspeicher, wodurch es zu Ladezeiten, Hänger und auch kompletten Absürzen von programmen kommen kann. Schüler_innen müssen (natürlich) ihre Arbeiten immer wieder zwischenspeichern. 
+Das Bearbeiten von Videos im Allgemeinen benötigt viel Prozessorleistung und Arbeitsspeicher, wodurch es zu Ladezeiten, Hänger und auch kompletten Abstürzen von Programmen kommen kann. Schüler_innen müssen (natürlich) ihre Arbeiten immer wieder zwischenspeichern. 
 Beim Erstellen von Texten in OpenShot erstellt das Programm eine autoamtische Bennenung der Titel. Bei jedem Neustart des Programmes startet die Bennenung von neuem bei 1. Deshalb müssen Schüler_innen unbedingt ihre Titel eigens benennen, da sie ansonten immer wieder den selben Titel neu bearbeiten --> Problem: ihre Texte werden immer wieder überspeichert. Das Programm selber informiert den Nutzer nicht über das Überschreiben der vorherigen Titel.
 ____________________________________________________________________________________________________________
 ############################################################################################################
@@ -37,28 +37,45 @@ Scratch ist eine visuelle Programmiersprache mit einem spielerischen Zugang. Das
 Bestandteile des Editors:
 1. Bühne: Die Bühne befindet sich standardmäßig im linken oberen Bildschirmbereich und sie dient den Lernenden als Visualisierung ihres Programmes. In diesem Bereich können die in dem Programmierbereich erstellten Sequenzen und Animationen betrachten werden.
 2. Programmierbereich: Im fast gesamten rechten Bereich befindet sich das Herzstück von Scratch, in welchem die Programme erstellt werden.
-3. Figurenliste: Diese repräsentiert die einzelnen Objekte, mit welchen man in seinem Programm interagieren kann. Dabei kann eine Vielzahl an Objekten erstelltwe rden, wobei jede Figur seinen eigene Programmierbereich hat.
+3. Figurenliste: Diese repräsentiert die einzelnen Objekte, mit welchen man in seinem Programm interagieren kann. Dabei kann eine Vielzahl an Objekten erstellt werden, wobei jede Figur seinen eigene Programmierbereich hat.
 4. Blockpalette: Bei dieser handelt es sich um die vorhin erwähnten Bausteinstücke, welche man zu Programmsequenzen zusammensetzen kann. Dabei gibt Scratch viele Bausteine vor, welche eine gute Bezeichnung haben, sodass Schüler_innen schnell ihre Funktionsweise verstehen.
 
 Unterlagen siehe "Sammlung Scratch"
 ___________________________________________________________________________________________________________
 
-*Phyton* -Phyton-
-Phyton ist eine Programmiersprache, welche weniger Syntax als herkömmliche Programmiersprache (wie etwa C) aufweist. 
-Das Programm Geany selber ist nur auf Linux-Systemen verfügbar und ermöglicht eine allumfassende Entwicklerumgebung, die wahrscheinlich ein überfordernd und für den Schulalltag übertrieben sein kann.
-Online Entwicklerumgebung wie etwa https://www.programiz.com/python-programming/online-compiler/ ermöglichen einen raschen Einstieg um Grundalgen, wie Schleifen, Zuweisungen, Bedinungen zu erklären.
+*Python* 
+Phyton ist eine Programmiersprache, welche weniger Syntax als herkömmliche Programmiersprachen (wie etwa C) aufweist. 
 
-Herausforderung:
-Phyton selber erfordert eine tiefere Auseinandersetzung mit dem Thema Programmieren. 
+--IDE für Linux:-- 
+Für Linux bietet sich die Entwicklungsumgebung Geany an. Für den Schulunterricht könnte sie aber bereits zu umfangreich sein.
+
+--IDE für Windows:--
+Für Windows gibt es die IDE Spyder. Auch sie ist vielleicht für den Schulunterricht etwas zu umfangreich.
+Spyder ist Teil der Anacona Distribution. Diese umfasst neben Spyder auch viele weitere Tools zur Entwicklung mit Python.
+
+--Online IDE:--
+Online Entwicklerumgebungen wie etwa https://www.programiz.com/python-programming/online-compiler/ ermöglichen einen raschen Einstieg um Grundlagen, wie Schleifen, Zuweisungen, Bedingungen zu erklären.
+Für den Schulunterricht sind sie auch deshalb geeignet, da eine Gegenüberstellung der Performance eines Online-Compilers mit einem "richtigen" Compiler gezeigt werden kann. 
+Bei komplexeren Problemstellungen sind allerdings Python und Geany zu bevorzugen.
+
+Vorteile von Python:
 Geany und Online Umgebungen geben Funktionen zum Kompilieren und Ausführen vor, sodass keine Auseinandersetzung mit der Console nötig ist. 
+Die Syntax von Python ist relativ simpel.
+Sehr viele Hilfestellungen online verfügbar.
+
+Herausforderungen von Python:
+Python selber erfordert eine tiefere Auseinandersetzung mit dem Thema Programmieren.  
+
 ___________________________________________________________________________________________________________
 *Arduino* 
-DIe Arduino IDE gibt es als Download für Windows, MAC OS und auch für die Linux Systeme. Weiters gibt es auch einen Online Editor (https://www.arduino.cc/). Um den Web-Editor verwenden zu können, wird trotzdem ein lokales Plugin am PC selbst benötigt. *Bei der Aktualiserung des WebEditors ist ein Fehler aufgetreten, es funktioniert momentang 14.01 nicht*
+Die Arduino IDE gibt es als Download für Windows, MAC OS und auch für die Linux Systeme. Weiters gibt es auch einen Online Editor (https://www.arduino.cc/). Um den Web-Editor verwenden zu können, wird trotzdem ein lokales Plugin am PC selbst benötigt. *Bei der Aktualiserung des WebEditors ist ein Fehler aufgetreten, es funktioniert momentan 14.01 nicht*
 Es gibt auch eine Arduino IDE zum Downloaden. 
-Auf dem Arduino  selber programmiert man in einer C (C++) ähnlichen Programmiersprache. Für die Unterstufe ist sie damit schwieriger als eine visuelle Programmiersrpache. 
+Auf dem Arduino selber programmiert man in einer C (C++) ähnlichen Programmiersprache. Für die Unterstufe ist sie damit schwieriger als eine visuelle Programmiersrpache. 
 
 Herausforderung:
-Bei der Arduino IDE muss man jedes Mall, wenn man den Roboter mit dem Computer verbindet den Port im Programm neu einstellen.
+Bei der Arduino IDE muss man jedes Mal, wenn man den Roboter mit dem Computer verbindet den Port im Programm neu auswählen bzw. eine Zeit warten.
+Die Fehlermeldungen auf der Konsole können von den meisten Schülerinnen und Schülern nicht richtig interpretiert werden, weshalb die Fehlersuche viel Zeit in Anspruch nimmt.
+Es ist meist nicht möglich für die Schülerinnen und Schüler den Code, der beim Arbeiten mit dem Arduino verwendet wird, vollständig zu verstehen. Programmieren erscheint dabei häufig als 'Magie'.
 __________________________________________________________________________________________________________
 *SQL Island*
 
@@ -89,7 +106,7 @@ Bilbearbeitung
 
 *Paint*
 Dabei handelt es sich um ein Bildbearbeitungstool, welches standardmäßig im Office Paket enthalten ist. 
-Vorteil: Es kann in verschiedenen Klassen angewandt werden und mann kann damit verschiedene Schwierigkeitsgrade umsetzen.
+Vorteil: Es kann in verschiedenen Klassen angewandt werden und man kann damit verschiedene Schwierigkeitsgrade umsetzen.
 Nachteil: nur unter Windows verfügbar
 
 *Gimp*
@@ -140,6 +157,25 @@ Bereitstellung von Unterrichtsmaterialen
 
 Arbeitsblätter, Übungsdateien und Onlineübungen
 Links: https://www.easy4me.info/
+
+____________________________________________________________________________________________________________
+############################################################################################################
+
+Anfertigung von 3D Druck Modellen
+
+*TinkerCAD*
+
+Das kostenlose Online-Programm TinkerCAD bietet die Möglichkeit, 3D Modelle für den Unterricht zu erstellen. Dabei bietet TinkerCAD die Möglichkeit sich als Lehrperson zu registrieren (und gleichzeitig auch eine Gruppe von SchülerInnen zu verwalten).
+
+TinkerCAD ist aufgrund seiner einfachen Bedienung gut für den Schulunterricht geeignet. Mittels Drag & Drop können Bausteine die Arbeitsfläche gezogen werden.
+Geeignet ist TinkerCAD deshalb auch in Kombination mit dem Unterrichtsfach Mathematik. 
+Zudem gibt es eine Vielzahl bereits vorgefertigter Baupläne, die sofort gedruckt werden können.
+
+Doch nicht nur 3D - Pläne können mit Hilfe von TinkerCAD erstellt werden, auch Schaltpläne können mit Hilfe von TinkerCAD einfach erstellt und simuliert werden. 
+Auch hier erfolgen alle Schritte mittels Drag & Drop.
+
+Zu guter Letzt hat TinkerCAD auch eine Scratch ähnliche Oberfläche, mit Hilfe derer 3D Pläne generiert werden können.
+ 
 
 ____________________________________________________________________________________________________________
 ############################################################################################################
