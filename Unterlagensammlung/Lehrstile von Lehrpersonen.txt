@@ -2,20 +2,35 @@ Hier kann jeder Lehrstile/Unterrichtsstile von (Informatik) Lehrpersonen beschre
 
 Lehrstile von Lehrpersonen
 
-Dabei orientiere ich mich an die vier Lernstile von Silver, Strong und Perini. Diese unterscheiden  zwischen: 
-- Wissensorientierter Stil - Aubau von Wissen
+Dabei orientiere ich mich an die vier Lernstile von Silver, Strong und Perini. Diese unterscheiden zwischen: 
+- Wissensorientierter Stil - Aufbau von Wissen
 - Verstehensorientierter Stil - verbesserte Fähigkeiten logisches Denken, Ursachenforschung
-- Beziehungsorientierter Stil - Gemeinsame Lernen, Aufbau von Beziehungen, Umgang mit der Gruppe
+- Beziehungsorientierter Stil - Gemeinsames Lernen, Aufbau von Beziehungen, Umgang mit der Gruppe
 - Selbstverwirklichungsorientierter Stil - Fantasie, Kreativität soll angeregt werden
 
 Diese Unterrichtsstile kommen nur selten abgeschlossen für sich alleine vor, sondern werden im Unterricht immer wieder durchmischt. Trotzdem kann man häufig einen Trend ableiten. 
 Quelle: Silver, Strong, Perini (2013) Strategisch unterrichten. So finden Sie für jedes Unterrichtsziel die richtige Methode. Beltz.
 
 *Eine Lehrperson legt in ihrem Unterricht weniger den Schwerpunkt darauf, dass ihre Schüler_innen etwas wissen, sondern vielmehr geht es darum, dass ihre Schüler_innen Fähigkeiten erlernen und etwas Können. Dabei müssen sich Schüler_innen den größten Teil in Aufgaben selbst erarbeiten. Die Lehrperson gibt dabei nur zu Beginn einige Informationen. Die Aufgabenstellungen selber beinhalten aber häufig Beispiele oder Erklärungen. 
-Die Schüler_innen sind dabei sehr aktiv, während die Lehrperson eher im Hintergrund agiert. Die Schüler_innen können sich dabei selbst einen Schwerpunkt für sich  festlegen. Damit verfolgt die Lehrperson zu großem Teilen einen selbstverwirklichungsorientierten Unterricht. 
+Die Schüler_innen sind dabei sehr aktiv, während die Lehrperson eher im Hintergrund agiert. Die Schüler_innen können sich dabei selbst einen Schwerpunkt für sich festlegen. Damit verfolgt die Lehrperson zu großem Teilen einen selbstverwirklichungsorientierten Unterricht. 
 
 *Die Lehrperson hat zusätzlich zu den Selbsterarbeitungsphasen der Schüler auch Frontalunterrichtssequenzen, in welchen den SchülerInnen am Computer gezeigt wird wie bestimmte Aspekte funktionieren. In den Phasen, in denen die SchülerInnen selbst arbeiten gibt es selten Fragen und die Lehrperson verhält sich eher passiv.
 
-*Eine Lehrperson erklärte sie findet es wichtiger, dass Schüler_innen in der Schule (Unterstufe) Freude und Spaß hätten, als wenn sie das Unterrichtsfach Informatik langweilig oder anders negativ in Erinnerung behalten würden. DIese Lehrkraft verfolgte eine sehr beziehunngsorientierten Stil. 
+*Eine Lehrperson erklärte sie findet es wichtiger, dass Schüler_innen in der Schule (Unterstufe) Freude und Spaß hätten, als wenn sie das Unterrichtsfach Informatik langweilig oder anders negativ in Erinnerung behalten würden. Diese Lehrkraft verfolgte eine sehr beziehunngsorientierten Stil. 
 Der Lehrstoff musste sich größtenteils hintenanordnen. Ich sehe die Gefahr, dass das Ziel des Unterrichtes zu stark vernachlässigt wird. EIne gute Lehrperson sollte es schaffen, die eigenen Schüler_innen immer wieder zu motivieren, sodass sie gar nie von dem Ultimatum "Unterricht - Langeweile oder Kein Unterricht - Spaß" stehen sollte.
+
+*** Form der Differenzierung *** 
+
+Im Unterrichtsfach Informatik muss sehr stark auf die Bereiche Individualisierung und Differenzierung geachtet werden. Gerade in Informatik ist es nämlich möglich, dass die Leistungsniveaus bzw. das Vorwissen der Schülerinnen und Schüler sehr stark voneinander abweichen.
+Im Folgenden werden nun einige Methoden bzw. Stile der Differenzierung beschrieben:
+
+* Keine Differenzierung 
+Auch 'keine Differenzierung' hat selbstverständlich Vorteile. Im Allgemeinen wird über die Zeit hinweg die Gruppe homogener. Auch ist eine Bewertung leichter, da jeder Schüler bzw. jede Schülerin die gleichen Aufgaben hat. Die Stunde ist auch schneller geplant, da keine Übungsblätter mit verschiedenen Schwierigkeitsgraden angefertigt werden müssen.
+Einher gehen jedoch viele Probleme. Einerseits langweilen sich gute Schüler bzw. gute Schülerinnen sehr schnell. Andererseits ist es dadurch möglich, dass das Lerntempo für leistungsschwache Schülerinnen bzw. Schüler zu schnell ist.
+Auch ist die Notengebung zwar einfacher, jedoch nicht fair. Ein Schüler bzw. eine Schülerin, die über den Verlauf des Jahres hinweg sehr viel gelernt hat erhält somit unter Umständen eine schlechtere Note als ein Schüler bzw. eine Schülerin, der nicht mehr viel lernen musste, da sein Vorwissen bereits sehr groß war.
+
+* Gruppenbildung
+Eine Form der Differenzierung bzw. Individualisierung ist das Bilden von Gruppen. Die Gruppenbildung kann dabei in zwei verschiedenen Weisen erfolgen.
+1. Jene Schüler bzw. jene Schülerinnen, deren Vorwissen bereits größer ist, bilden eine eigene Gruppe und behandeln schwerere Aufgaben - ihr Fortschritt ist somit ebenfalls schneller. (Differenzierung)
+2. Es werden Gruppen mit Lernenden verschiedener Leistungsniveaus gebildet und jeder Schüler bzw. jede Schülerin bekommt einen Aufgabenbereich, der genau deren Leistungsniveau bzw. Begabung entspricht. Es ensteht somit ein Gesamtprodukt, das jeden Lernenden forderte.
 
