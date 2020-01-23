@@ -51,6 +51,7 @@ Akademisches Gymnasium Innsbruck:
 
 - Unterrichtsthemen
 	- Robotik - Arbeiten mit Robotern
+	- Abstandssensoren
 	
 - Zugang
 	- Ein Zugang zu einem Moodlekurs wurde ermöglicht. DIe Schüler_innen wurden über das Portal Tirol hinzugefügt.
