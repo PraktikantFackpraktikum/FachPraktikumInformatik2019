@@ -49,5 +49,11 @@ Hardwarebestand – allgemein
 
 Softwarebestand
 •	Ubuntu installiert
-•	VirtualBox (WIndows)
+•	VirtualBox (Windows)
 •	Arduino IDE
+
+Hardware - Roboter
+•	Arduino UNOs
+•	Abstandssensoren
+•	Motoren
+•	Lausprecher
